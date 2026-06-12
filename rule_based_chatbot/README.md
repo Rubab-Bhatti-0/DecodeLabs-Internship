@@ -38,9 +38,9 @@ python3 test_chatbot.py
 
 | Requirement | Implementation | Status |
 | :--- | :--- | :--- |
-| **Input Loop** | `while True` cycle | ✅ |
-| **Sanitization** | `.lower().strip()` | ✅ |
-| **Knowledge Base** | Dictionary with 15+ intents | ✅ |
-| **Fallback** | `.get(input, default)` | ✅ |
-| **Exit Strategy** | `exit`, `quit`, `bye`, `goodbye` | ✅ |
-| **Complexity** | $O(1)$ Dictionary Lookup | ✅ |
+| **Input Loop** | `while True` cycle | |
+| **Sanitization** | `.lower().strip()` | |
+| **Knowledge Base** | Dictionary with 15+ intents |  |
+| **Fallback** | `.get(input, default)` ||
+| **Exit Strategy** | `exit`, `quit`, `bye`, `goodbye` 
+| **Complexity** | $O(1)$ Dictionary Lookup 

@@ -1,0 +1,11 @@
+job_role,skill_1,skill_2,skill_3,skill_4,skill_5,skill_6,skill_7,skill_8,skill_9,skill_10
+Data Scientist,Python,Machine Learning,Statistics,SQL,Data Analysis,R,Deep Learning,TensorFlow,Keras,Pandas
+DevOps Engineer,Linux,Docker,Kubernetes,AWS,Azure,CI/CD,Ansible,Terraform,Jenkins,Git
+Backend Developer,Python,Java,Node.js,SQL,APIs,Microservices,Spring Boot,Django,REST,Git
+Frontend Developer,JavaScript,React,Angular,Vue.js,HTML,CSS,TypeScript,Webpack,Redux,Git
+Cloud Architect,AWS,Azure,Google Cloud,Networking,Security,Cloud Computing,Terraform,Kubernetes,Docker,Solution Design
+Machine Learning Engineer,Python,Machine Learning,Deep Learning,TensorFlow,PyTorch,Data Science,Algorithms,SQL,Spark,AWS
+Cybersecurity Analyst,Security,Networking,Linux,Penetration Testing,Incident Response,Firewalls,SIEM,Vulnerability Assessment,Python,Compliance
+Data Engineer,SQL,Python,ETL,Data Warehousing,Spark,AWS,Azure,Kafka,Data Modeling,Big Data
+Product Manager,Product Management,Agile,Scrum,Market Research,Roadmapping,UX/UI,Communication,Strategy,Analytics,Leadership
+UX/UI Designer,UI Design,UX Design,Figma,Sketch,Adobe XD,Wireframing,Prototyping,User Research,Usability Testing,Interaction Design
